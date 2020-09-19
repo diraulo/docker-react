@@ -1,5 +1,10 @@
 sudo: required
+
 language: generic
+
+notifications:
+  email: false
+
 services:
   - docker
 
